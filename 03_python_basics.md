@@ -125,7 +125,7 @@ while i > 0:
 Итерироваться можно по списку
 ```python
 l = ["Ivan", "Maria", "David"]
-for name in my_list:
+for name in l:
     print(name)
 ```
 
